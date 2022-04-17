@@ -1,0 +1,4 @@
+{
+	"ip":"LiveSteal_SMP_.aternos.me",
+	"port": "35800",
+	"name": "afkbot"
